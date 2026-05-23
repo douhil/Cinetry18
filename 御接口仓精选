@@ -1,0 +1,2670 @@
+{
+  "spider": "./jar/vox.jar",
+  "warningText": "禁止任何商业用途，仅限个人学习爬虫原理使用。",
+  "logo": "./1.gif",
+  "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
+  "sites": [
+    {
+      "key": "yu_0ca8b291_1080资源",
+      "name": "👑1080影院",
+      "type": 1,
+      "api": "https://api.yzzy-api.com/inc/apijson.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "短剧大全",
+        "国产剧",
+        "大陆综艺",
+        "国产动漫",
+        "动作片",
+        "喜剧片",
+        "科幻片",
+        "恐怖片",
+        "爱情片",
+        "剧情片",
+        "战争片",
+        "记录片",
+        "韩国剧",
+        "欧美剧",
+        "香港剧",
+        "台湾剧",
+        "泰国剧",
+        "日韩动漫",
+        "欧美动漫",
+        "港台综艺",
+        "日韩综艺"
+      ],
+      "group": "御接口仓精选"
+    },
+    {
+      "key": "yu_c4ea38b7_360资源",
+      "name": "👑360┃资源",
+      "type": 1,
+      "api": "https://360zy.com/api.php/provide/vod",
+      "playUrl": "",
+      "categories": [
+        "爽文短剧",
+        "国产剧",
+        "国产动漫",
+        "动画电影",
+        "网络电影",
+        "动作片",
+        "喜剧片",
+        "灾难片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "港台剧",
+        "日韩剧",
+        "欧美剧",
+        "惊悚片",
+        "犯罪片",
+        "冒险片",
+        "悬疑片",
+        "武侠片",
+        "奇幻片",
+        "国产综艺"
+      ],
+      "group": "御接口仓精选",
+      "searchable": 1
+    },
+    {
+      "key": "yu_cfc234c3_360资源",
+      "name": "👑360资源-采集",
+      "type": 1,
+      "api": "https://360zy.com/api.php/seaxml/vod/",
+      "searchable": 1,
+      "changeable": 1,
+      "categories": [
+        "国产动漫",
+        "日韩动漫",
+        "国产剧",
+        "韩国剧",
+        "日本剧",
+        "电影片",
+        "连续剧",
+        "综艺片",
+        "动漫片",
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "香港剧",
+        "欧美剧",
+        "记录片",
+        "台湾剧",
+        "海外剧",
+        "泰国剧",
+        "大陆综艺",
+        "港台综艺",
+        "日韩综艺",
+        "欧美综艺",
+        "欧美动漫",
+        "港台动漫",
+        "海外动漫"
+      ],
+      "group": "御接口仓精选"
+    },
+    {
+      "key": "yu_ab51dba2_49zy",
+      "name": "👑49Z｜影视",
+      "type": 1,
+      "api": "https://49zyw.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "categories": [
+        "国产剧",
+        "纪录片",
+        "欧美剧",
+        "香港剧",
+        "动作片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "喜剧片",
+        "动画片",
+        "犯罪片",
+        "韩国剧",
+        "动漫",
+        "电影",
+        "大陆综艺",
+        "港台综艺",
+        "日韩综艺",
+        "欧美综艺",
+        "台湾剧",
+        "国产动漫",
+        "日本动漫",
+        "欧美动漫",
+        "泰国剧",
+        "日剧",
+        "电影解说",
+        "奇幻片",
+        "灾难片",
+        "悬疑片",
+        "其他片",
+        "体育赛事",
+        "海外剧"
+      ],
+      "group": "御接口仓精选"
+    },
+    {
+      "key": "yu_85710221_OK",
+      "name": "👑OK|点播",
+      "type": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "api": "https://okzyw9.com/api.php/provide/vod/",
+      "group": "御接口仓精选"
+    },
+    {
+      "key": "yu_29f81b81_U酷",
+      "name": "👑U酷|点播",
+      "type": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "api": "https://api.ukuapi.com/api.php/provide/vod/",
+      "group": "御接口仓精选"
+    },
+    {
+      "key": "yu_74468377_U酷资源",
+      "name": "👑U酷资源",
+      "type": 1,
+      "api": "https://api.ukuapi88.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "group": "御接口仓精选"
+    },
+    {
+      "key": "yu_585f14e1_ikun",
+      "name": "👑ikun|点播",
+      "type": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "api": "https://ikunzyapi.com/api.php/provide/vod/",
+      "group": "御接口仓精选"
+    },
+{
+      "key": "yu_6b852580_可可资源",
+      "name": "👑⛱┃可可┃采集",
+      "type": 1,
+      "api": "https://kekezy1.com/api.php/provide/vod/?ac=list",
+      "playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1,
+      "categories": [
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "战争片",
+        "剧情片",
+        "国产剧",
+        "香港剧",
+        "韩国剧",
+        "欧美剧",
+        "日本剧",
+        "台湾剧",
+        "泰国剧",
+        "海外剧",
+        "国产动漫",
+        "日本动漫",
+        "欧美动漫",
+        "大陆综艺",
+        "港台综艺",
+        "日韩综艺"
+      ],
+      "group": "御接口仓精选"
+    },
+    {
+      "key": "yu_cb66369c_非凡影视",
+      "name": "👑✅非凡┃影视",
+      "type": 1,
+      "api": "http://cj.ffzyapi.com//api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "短剧",
+        "动作片",
+        "喜剧片",
+        "科幻片",
+        "恐怖片",
+        "爱情片",
+        "剧情片",
+        "战争片",
+        "记录片",
+        "国产剧",
+        "欧美剧",
+        "香港剧",
+        "韩国剧",
+        "台湾剧",
+        "日本剧",
+        "海外剧",
+        "泰国剧",
+        "国产动漫",
+        "日韩动漫",
+        "欧美动漫",
+        "港台动漫",
+        "海外动漫",
+        "大陆综艺",
+        "港台综艺",
+        "日韩综艺",
+        "欧美综艺"
+      ],
+      "group": "御接口仓精选"
+    },
+    {
+      "key": "yu_d6f91cb1_丫丫",
+      "name": "👑丫丫|点播",
+      "type": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "api": "https://cj.yayazy.net/api.php/provide/vod/",
+      "group": "御接口仓精选"
+    },
+    {
+      "key": "yu_c3bda0db_光速资源",
+      "name": "👑光速资源(切)",
+      "type": 1,
+      "api": "https://api.guangsuapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "group": "御接口仓精选"
+    },
+    {
+      "key": "yu_23060e5e_光速资源",
+      "name": "👑光速｜资源",
+      "type": 1,
+      "api": "http://api.guangsuapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "changeable": 1,
+      "categories": [
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "剧情片",
+        "恐怖片",
+        "战争片",
+        "动漫电影",
+        "大陆剧",
+        "欧美剧",
+        "港澳剧",
+        "韩剧",
+        "日剧",
+        "台湾剧",
+        "泰剧",
+        "综艺",
+        "动漫",
+        "记录片"
+      ],
+      "group": "御接口仓精选"
+    },
+    {
+      "key": "yu_257d6bc0_华为吧",
+      "name": "👑华为吧|点播",
+      "type": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "api": "https://hw8.live/api.php/provide/vod/",
+      "group": "御接口仓精选"
+    },
+    {
+      "key": "yu_83784ebd_卧龙",
+      "name": "👑卧龙|点播",
+      "type": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "api": "https://collect.wolongzyw.com/api.php/provide/vod/",
+      "group": "御接口仓精选"
+    },
+    {
+      "key": "yu_a3e3fdbc_卧龙资源",
+      "name": "👑卧龙资源",
+      "type": 1,
+      "api": "https://collect.wolongzy.cc/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "group": "御接口仓精选"
+    },
+    {
+      "key": "yu_51417318_四个圈",
+      "name": "👑四个圈",
+      "type": 1,
+      "api": "https://pg.fenwe078.cf/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "group": "御接口仓精选"
+    },
+    {
+      "key": "yu_114df3f7_墨斗",
+      "name": "👑墨斗|点播",
+      "type": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "api": "https://www.mdzyapi.com/api.php/provide/vod/",
+      "group": "御接口仓精选"
+    },
+    {
+      "key": "yu_b76aa407_天涯资源",
+      "name": "👑天涯影院",
+      "type": 1,
+      "api": "https://ty.tyyszy5.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "短剧",
+        "国产剧",
+        "大陆综艺",
+        "国产动漫",
+        "动作",
+        "喜剧",
+        "网络电影",
+        "恐怖",
+        "惊悚",
+        "爱情",
+        "剧情",
+        "战争",
+        "冒险",
+        "欧美剧",
+        "港台剧",
+        "日韩剧",
+        "欧美剧",
+        "其他剧",
+        "日本动漫",
+        "欧美动漫",
+        "港台综艺",
+        "日韩综艺",
+        "欧美综艺"
+      ],
+      "group": "御接口仓精选"
+    },
+    {
+      "key": "yu_baf2d1c2_天涯资源",
+      "name": "👑天涯资源",
+      "type": 1,
+      "api": "https://tyyszyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "group": "御接口仓精选"
+    },
+    {
+      "key": "yu_3e222add_宝片",
+      "name": "👑宝片|点播",
+      "type": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "api": "https://zpsps.com/api.php/provide/vod/",
+      "group": "御接口仓精选"
+    },
+    {
+      "key": "yu_9609735a_小黄人",
+      "name": "👑小黄人|点播",
+      "type": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "api": "https://iqyi.xiaohuangrentv.com/api.php/provide/vod/",
+      "group": "御接口仓精选"
+    },
+    {
+      "key": "yu_d7168b3d_影图",
+      "name": "👑影图|点播",
+      "type": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "api": "https://cj.vodimg.top/api.php/provide/vod/",
+      "group": "御接口仓精选"
+    },
+    {
+      "key": "yu_5d775f08_快帆",
+      "name": "👑快帆",
+      "type": 1,
+      "api": "https://api.kuaifan.tv/api.php/provide/vod",
+      "searchable": 1,
+      "changeable": 1,
+      "group": "御接口仓精选"
+    },
+    {
+      "key": "yu_9db7316d_快车",
+      "name": "👑快车|点播",
+      "type": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "api": "https://caiji.kczyapi.com/api.php/provide/vod/from/kcm3u8/",
+      "group": "御接口仓精选"
+    },
+    {
+      "key": "yu_7544eba7_快车资源",
+      "name": "👑快车资源",
+      "type": 1,
+      "api": "https://caiji.kuaichezy.org/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "group": "御接口仓精选"
+    },
+    {
+      "key": "yu_bb47724f_快车资源",
+      "name": "👑快车｜资源",
+      "type": 1,
+      "api": "https://caiji.kczyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "changeable": 1,
+      "categories": [
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "战争片",
+        "剧情片",
+        "动画片",
+        "纪录片",
+        "国产剧",
+        "香港剧",
+        "台湾剧",
+        "欧美剧",
+        "韩国剧",
+        "日本剧",
+        "泰国剧",
+        "海外剧",
+        "国产动漫",
+        "日本动漫",
+        "欧美动漫",
+        "大陆综艺",
+        "日韩综艺",
+        "港台综艺",
+        "欧美综艺"
+],
+      "group": "御接口仓精选"
+    },
+    {
+      "key": "yu_708ac326_新浪",
+      "name": "👑新浪|点播",
+      "type": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/",
+      "group": "御接口仓精选"
+    },
+    {
+      "key": "yu_84a0487b_新浪资源",
+      "name": "👑新浪资源",
+      "type": 1,
+      "api": "http://api.xinlangapi.com/xinlangapi.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "group": "御接口仓精选"
+    },
+    {
+      "key": "yu_2dd5fd94_无尽",
+      "name": "👑无尽|点播",
+      "type": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "api": "https://api.wujinapi.com/api.php/provide/vod/",
+      "group": "御接口仓精选"
+    },
+    {
+      "key": "yu_71d08bcc_无尽资源",
+      "name": "👑无尽资源",
+      "type": 1,
+      "api": "https://api.wujinapi.me/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "group": "御接口仓精选"
+    },
+    {
+      "key": "yu_521e04f2_无忧影视",
+      "name": "👑无忧影视",
+      "type": 1,
+      "api": "https://www.wyvod.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "group": "御接口仓精选"
+    },
+    {
+      "key": "yu_ec89b930_旺旺",
+      "name": "👑旺旺短剧",
+      "type": 1,
+      "api": "https://api.wwzy.tv/api.php/provide/vod/?ac=list",
+      "playerType": 1,
+      "searchable": 1,
+      "changeable": 1,
+      "group": "御接口仓精选"
+    },
+    {
+      "key": "yu_d887b33d_映迷影视",
+      "name": "👑映迷影视",
+      "type": 1,
+      "api": "https://www.inmi.app/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "group": "御接口仓精选"
+    },
+    {
+      "key": "yu_093e9188_暴風",
+      "name": "👑暴風",
+      "type": 1,
+      "api": "https://bfzyapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "changeable": 1,
+      "group": "御接口仓精选"
+    },
+    {
+      "key": "yu_016af727_暴风影音",
+      "name": "👑暴风影音",
+      "type": 1,
+      "api": "https://app.bfzyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "group": "御接口仓精选"
+    },
+    {
+      "key": "yu_fe4a9ef8_最大",
+      "name": "👑最大|点播",
+      "type": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "api": "http://zuidazy.me/api.php/provide/vod/",
+      "group": "御接口仓精选"
+    },
+    {
+      "key": "yu_5c799093_最大资源",
+      "name": "👑最大资源",
+      "type": 1,
+      "api": "https://api.zuidapi.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "group": "御接口仓精选"
+    },
+    {
+      "key": "yu_b27b18a0_极速",
+      "name": "👑极速|点播",
+      "type": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "api": "https://jszyapi.com/api.php/provide/vod",
+      "group": "御接口仓精选"
+    },
+    {
+      "key": "yu_eea40c6e_极速资源",
+      "name": "👑极速影院",
+      "type": 1,
+      "api": "https://jszyapi.com/api.php/provide/vod/at/json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "短剧",
+        "内地剧",
+        "大陆综艺",
+        "中国动漫",
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "动画片",
+        "记录片",
+        "台湾剧",
+        "日剧",
+        "韩剧",
+        "马泰剧",
+        "港台综艺",
+        "日韩综艺",
+        "欧美综艺",
+        "日韩动漫",
+        "欧美动漫",
+        "港台动漫",
+        "海外动漫"
+      ],
+      "group": "御接口仓精选"
+    },
+    {
+      "key": "yu_34c8ba02_樱花",
+      "name": "👑樱花|点播",
+      "type": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/",
+      "group": "御接口仓精选"
+    },
+    {
+      "key": "yu_9061ce11_haiwaikan",
+      "name": "👑海外看",
+      "type": 1,
+      "api": "https://haiwaikan.com/api.php/provide/vod",
+      "searchable": 1,
+      "changeable": 1,
+      "categories": [
+        "日本动漫",
+        "国产动漫",
+        "欧美动漫",
+        "国产剧",
+        "韩剧",
+        "日剧",
+        "台剧",
+        "泰剧",
+        "港剧",
+        "欧美剧",
+        "动画电影",
+        "韩国综艺",
+        "国产综艺",
+        "日本综艺",
+        "欧美综艺",
+        "冒险片",
+        "剧情片",
+        "动作片",
+        "同性片",
+        "喜剧片",
+        "奇幻片",
+        "恐怖片",
+        "悬疑片",
+        "惊悚片",
+        "战争片",
+        "歌舞片",
+        "灾难片",
+        "爱情片",
+        "犯罪片",
+        "科幻片",
+        "纪录片",
+        "经典片"
+      ],
+      "group": "御接口仓精选"
+    },
+    {
+      "key": "yu_b0b4e205_淘片资源",
+      "name": "👑淘片资源",
+      "type": 1,
+      "api": "https://www.taopianzy.com/cjapi/mc/vod/json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "group": "御接口仓精选"
+    },
+    {
+      "key": "yu_71ac90f2_火狐",
+      "name": "👑火狐|点播",
+      "type": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "api": "https://hhzyapi.com/api.php/provide/vod/",
+      "group": "御接口仓精选"
+    },
+    {
+      "key": "yu_e9d7fc7a_爱奇艺资源",
+      "name": "👑爱奇艺资源",
+      "type": 1,
+      "api": "https://iqiyizyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "group": "御接口仓精选"
+    },
+    {
+      "key": "yu_d2a25967_牛牛",
+      "name": "👑牛牛|点播",
+      "type": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "api": "https://api.niuniuzy.me/api.php/provide/vod/",
+      "group": "御接口仓精选"
+    },
+    {
+      "key": "yu_27f54dd2_猫咪资源",
+      "name": "👑猫咪影院",
+      "type": 1,
+      "api": "http://zy.xmm.hk/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "电影",
+        "连续剧",
+        "综艺",
+        "动漫"
+      ],
+      "group": "御接口仓精选"
+    },
+    {
+      "key": "yu_f7cdd2b2_猫眼",
+      "name": "👑猫眼",
+      "type": 1,
+      "api": "https://api.maoyanapi.top/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "group": "御接口仓精选"
+    },
+    {
+      "key": "yu_7f11d6a3_电影天堂",
+      "name": "👑电影天堂",
+      "type": 1,
+      "api": "https://caiji.dyttzyapi.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "短剧",
+        "国产剧",
+        "大陆综艺",
+        "国产动漫",
+        "韩国剧",
+        "动作片",
+        "喜剧片",
+        "动画片",
+        "恐怖片",
+        "爱情片",
+        "剧情片",
+        "战争片",
+        "记录片",
+        "欧美剧",
+        "香港剧",
+        "台湾剧",
+        "日本剧",
+        "海外剧",
+        "泰国剧",
+        "日韩动漫",
+        "欧美动漫",
+        "港台动漫",
+        "海外动漫",
+        "港台综艺",
+        "日韩综艺",
+        "欧美综艺"
+      ],
+      "group": "御接口仓精选"
+    },
+    {
+      "key": "yu_01bca615_电影天堂2",
+      "name": "👑电影天堂2",
+      "type": 1,
+      "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "group": "御接口仓精选"
+    },
+    {
+      "key": "yu_e659e03f_MV_vod",
+      "name": "👑电视┃MTV",
+      "type": 1,
+      "api": "https://mv.wogg.link/mv/vod",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "group": "御接口仓精选"
+    },
+    {
+      "key": "yu_e3211b8c_百度资源",
+      "name": "👑百度资源",
+      "type": 1,
+      "api": "https://api.apibdzy.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "group": "御接口仓精选"
+    },
+    {
+      "key": "yu_9466f1a9_索尼",
+      "name": "👑索尼 ",
+      "type": 1,
+      "api": "https://suoniapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "changeable": 1,
+      "group": "御接口仓精选"
+    },
+    {
+      "key": "yu_6ce7609f_索尼资源",
+      "name": "👑索尼┃资源",
+      "type": 1,
+      "api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/",
+      "categories": [
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "国产剧",
+        "欧美剧",
+        "韩剧",
+        "日剧",
+        "港剧",
+        "台剧",
+        "泰剧",
+        "海外剧",
+        "纪录片",
+        "大陆综艺",
+        "日韩综艺",
+        "港台综艺",
+        "欧美综艺",
+        "国产动漫",
+        "日韩动漫",
+        "欧美动漫",
+        "动画片",
+        "港台动漫",
+        "海外动漫",
+        "演唱会",
+        "体育赛事",
+        "篮球",
+        "足球",
+        "预告片",
+        "斯诺克",
+        "影视解说"
+      ],
+      "searchable": 1,
+      "quickSearch": 1,
+      "group": "御接口仓精选"
+    },
+    {
+      "key": "yu_554da51d_csp_SNzy",
+      "name": "👑索尼🐉蓝光",
+      "type": 1,
+      "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "国产剧",
+        "国产动漫",
+        "大陆综艺",
+        "爽文短剧",
+        "韩剧",
+        "泰剧",
+        "港剧",
+        "日剧",
+        "台剧",
+        "欧美剧",
+        "日韩动漫",
+        "日韩综艺",
+        "4K电影",
+        "影视解说",
+        "动画片",
+        "动作片",
+        "喜剧片",
+        "科幻片",
+        "恐怖片",
+        "爱情片",
+        "剧情片",
+        "战争片",
+        "记录片",
+        "海外剧",
+        "欧美动漫",
+        "港台动漫",
+        "海外动漫",
+        "港台综艺",
+        "欧美综艺"
+],
+      "group": "御接口仓精选"
+    },
+    {
+      "key": "yu_aff912dc_红牛",
+      "name": "👑红牛|点播",
+      "type": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
+      "group": "御接口仓精选"
+    },
+    {
+      "key": "yu_9a42f16c_红牛资源",
+      "name": "👑红牛资源",
+      "type": 1,
+      "api": "https://www.hongniuzy2.com/api.php/provide/vod/at/josn/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "group": "御接口仓精选"
+    },
+    {
+      "key": "yu_87bb95fc_腐剧",
+      "name": "👑腐剧|点播",
+      "type": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "api": "http://www.fuju2024.cc:8013/ruifenglb_api.php/provide/vod/",
+      "group": "御接口仓精选"
+    },
+    {
+      "key": "yu_616cba7a_艾旦影视",
+      "name": "👑艾旦影视",
+      "type": 1,
+      "api": "https://www.lovedan.net/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "group": "御接口仓精选"
+    },
+    {
+      "key": "yu_bf47c8df_花旗资源",
+      "name": "👑花旗资源",
+      "type": 1,
+      "api": "https://www.seacms.org/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "group": "御接口仓精选"
+    },
+    {
+      "key": "yu_ebf5d130_茅台资源",
+      "name": "👑茅台资源",
+      "type": 1,
+      "api": "https://caiji.maotaizy.cc/api.php/provide/vod/at/josn/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "group": "御接口仓精选"
+    },
+    {
+      "key": "yu_8dc13397_虎牙",
+      "name": "👑虎牙|点播",
+      "type": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "api": "https://www.huyaapi.com/api.php/provide/vod/",
+      "group": "御接口仓精选"
+    },
+    {
+      "key": "yu_c795519f_虎牙资源",
+      "name": "👑虎牙资源",
+      "type": 1,
+      "api": "https://www.huyaapi.com/api.php/provide/vod/at/json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "group": "御接口仓精选"
+    },
+    {
+      "key": "yu_a0d9c6f8_蛋蛋魔法",
+      "name": "👑蛋蛋魔法",
+      "type": 1,
+      "api": "https://ddmf.net/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "group": "御接口仓精选"
+    },
+    {
+      "key": "yu_f8fd1583_豆瓣采集资源",
+      "name": "👑豆瓣 | 采集",
+      "type": 1,
+      "api": "https://caiji.dbzy.tv/api.php/provide/vod/from/dbm3u8/at/josn/",
+      "playerType": 1,
+      "searchable": 1,
+      "changeable": 1,
+      "group": "御接口仓精选"
+    },
+    {
+      "key": "yu_4a1858d6_豆瓣资源",
+      "name": "👑豆瓣资源",
+      "type": 1,
+      "api": "https://caiji.dbzy5.com/api.php/provide/vod/at/josn/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "group": "御接口仓精选"
+    },
+    {
+      "key": "yu_c4371956_速博",
+      "name": "👑速博|点播",
+      "type": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "api": "https://subocaiji.com/api.php/provide/vod/",
+      "group": "御接口仓精选"
+    },
+    {
+      "key": "yu_764c26f2_量子",
+      "name": "👑量子|点播",
+      "type": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "api": "https://cj.lziapi.com/api.php/provide/vod/",
+      "group": "御接口仓精选"
+    },
+    {
+      "key": "yu_100c6beb_量子资源",
+      "name": "👑量子资源",
+      "type": 1,
+      "api": "https://cj.lziapi.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "group": "御接口仓精选"
+    },
+    {
+      "key": "yu_8005b347_量子资源",
+      "name": "👑量子资源(切)",
+      "type": 1,
+      "api": "http://cj.lziapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "group": "御接口仓精选"
+    },
+    {
+      "key": "yu_e9353934_金鹰",
+      "name": "👑金鹰|点播",
+      "type": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "api": "https://jinyingzy.com/api.php/provide/vod/",
+      "group": "御接口仓精选"
+    },
+    {
+      "key": "yu_376c1ccb_闪电",
+      "name": "👑闪电|点播",
+      "type": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "api": "http://sdzyapi.com/api.php/provide/vod/",
+      "group": "御接口仓精选"
+    },
+    {
+      "key": "yu_fa8a45c9_闪电资源",
+      "name": "👑闪电资源",
+      "type": 1,
+      "api": "https://xsd.sdzyapi.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "group": "御接口仓精选"
+    },
+    {
+      "key": "yu_4e3c87bd_非凡",
+      "name": "👑非凡|点播",
+      "type": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "api": "http://cj.ffzyapi.com/api.php/provide/vod/",
+      "group": "御接口仓精选"
+    },
+    {
+      "key": "yu_709334c4_非凡资源",
+      "name": "👑非凡影院",
+      "type": 1,
+      "api": "http://ffzy.tv/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "短剧",
+        "国产剧",
+        "大陆综艺",
+        "国产动漫",
+        "韩国剧",
+        "动作片",
+        "喜剧片",
+        "科幻片",
+        "恐怖片",
+        "爱情片",
+        "剧情片",
+        "战争片",
+        "记录片",
+        "欧美剧",
+        "香港剧",
+        "台湾剧",
+        "日本剧",
+        "海外剧",
+        "泰国剧",
+        "日韩动漫",
+        "欧美动漫",
+        "港台动漫",
+        "海外动漫",
+        "港台综艺",
+        "日韩综艺",
+        "欧美综艺"
+      ],
+      "group": "御接口仓精选"
+    },
+    {
+      "key": "yu_41d99b02_非凡资源",
+      "name": "👑非凡资源",
+      "type": 1,
+      "api": "http://api.ffzyapi.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "group": "御接口仓精选"
+    },
+    {
+      "key": "yu_bfc8c32d_飘花",
+      "name": "👑飘花|点播",
+      "type": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "api": "http://www.ahjiuman.com/api.php/provide/vod/at/json",
+      "group": "御接口仓精选"
+    },
+    {
+      "key": "yu_182657a9_飘零",
+      "name": "👑飘零|点播",
+      "type": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "api": "https://p2100.net/api.php/provide/vod/",
+      "group": "御接口仓精选"
+    },
+    {
+      "key": "yu_0044021b_飞速影视",
+      "name": "👑飞速影视",
+      "type": 1,
+      "api": "https://www.feisuzy.com/api.php/provide/vod/",
+      "searchable": 0,
+      "quickSearch": 0,
+      "categories": [
+        "国产剧",
+        "短剧",
+        "韩国剧",
+        "香港剧",
+        "台湾剧",
+        "欧美剧",
+        "动作片",
+        "科幻片",
+        "战争片",
+        "奇幻片",
+        "喜剧片",
+        "爱情片",
+        "恐怖片",
+        "犯罪片",
+        "悬疑片",
+        "惊悚片",
+        "剧情片",
+        "冒险片",
+        "记录片",
+        "动作片",
+        "日本剧",
+        "泰剧",
+        "国产综艺",
+        "港台综艺",
+        "欧美综艺",
+        "日韩综艺",
+        "国产动漫",
+        "港台动漫",
+        "日韩动漫"
+      ],
+      "group": "御接口仓精选"
+    },
+    {
+      "key": "yu_5df21f0c_魔都",
+      "name": "👑魔都|点播",
+      "type": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "api": "https://caiji.moduapi.cc/api.php/provide/vod/",
+      "group": "御接口仓精选"
+    },
+    {
+      "key": "yu_c68099dd_魔都资源",
+      "name": "👑魔都影院",
+      "type": 1,
+      "api": "https://www.mdzyapi.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "短剧",
+        "国产剧",
+        "大陆综艺",
+        "国产动漫",
+        "动作",
+        "喜剧",
+        "网络电影",
+        "恐怖",
+        "惊悚",
+        "爱情",
+        "剧情",
+        "战争",
+        "冒险",
+        "韩国剧",
+        "台湾剧剧",
+        "日本剧",
+        "欧美剧",
+        "泰国剧",
+        "日本动漫",
+        "欧美动漫",
+        "港台综艺",
+        "日韩综艺",
+        "欧美综艺"
+      ],
+      "group": "御接口仓精选"
+    },
+    {
+      "key": "yu_77f6d6bf_黑木耳",
+      "name": "👑黑木耳|点播",
+      "type": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "api": "https://json02.heimuer.xyz/api.php/provide/vod/",
+      "group": "御接口仓精选"
+    },
+    {
+      "key": "yu_a6406e84_csp_xml_私人影视",
+      "name": "👑🈚私人影视",
+      "type": 1,
+      "playerType": 2,
+      "api": "https://mov.cswklt.top/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "categories": [
+        "4K",
+        "国产剧",
+        "日韩剧",
+        "欧美剧",
+        "港澳台",
+        "泰剧",
+        "短剧",
+        "国产动漫",
+        "日韩动漫",
+        "欧美动漫",
+        "港台动漫",
+        "海外动漫",
+        "动画片",
+        "动作片",
+        "科幻片",
+        "剧情片",
+        "喜剧片",
+        "爱情片",
+        "恐怖片",
+        "战争片",
+        "大陆综艺",
+        "港台综艺",
+        "日韩综艺",
+        "欧美综艺",
+        "记录片",
+        "体育赛事"
+      ],
+      "group": "御接口仓精选"
+    },
+    {
+      "key": "yu_7cf66887_红枸杞",
+      "name": "👑🌹红枸杞🌹",
+      "type": 1,
+      "api": "https://www.heimuer.tv/api.php/provide/vod",
+      "playUrl": "https://player.heimuer.tv/index.html?url=",
+      "searchable": 1,
+      "changeable": 1,
+      "categories": [
+        "剧情",
+        "动作",
+        "冒险",
+        "同性",
+        "喜剧",
+        "奇幻",
+        "恐怖",
+        "悬疑",
+        "惊悚",
+        "灾难",
+        "爱情",
+        "犯罪",
+        "科幻",
+        "动画电影",
+        "歌舞",
+        "战争",
+        "经典",
+        "网络电影",
+        "国产剧",
+        "港剧",
+        "韩剧",
+        "日剧",
+        "泰剧",
+        "台剧",
+        "欧美剧",
+        "新马剧",
+        "其他剧",
+        "国产综艺",
+        "港台综艺",
+        "韩国综艺",
+        "日本综艺",
+        "欧美综艺",
+        "新马泰综艺",
+        "其他综艺",
+        "欧美",
+        "日本",
+        "韩国",
+        "国产",
+        "港台",
+        "古装",
+        "虐恋",
+        "逆袭",
+        "悬疑",
+        "神豪",
+        "重生",
+        "复仇",
+        "穿越",
+        "甜宠",
+        "强者"
+      ],
+      "group": "御接口仓精选"
+    },
+    {
+      "key": "yu_16e55a61_金鹰采集",
+      "name": "👑🍁金鹰采集🍁|cdn2020",
+      "type": 1,
+      "api": "https://jyzyapi.com/provide/vod/",
+      "style": {
+        "ratio": 1.7
+      },
+      "group": "御接口仓精选",
+      "searchable": 1
+    },
+    {
+      "key": "yu_cfc132a2_电影天堂",
+      "name": "👑🎞️天堂┃采集",
+      "type": 1,
+      "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/from/dyttm3u8/at/m3u8/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 10,
+      "group": "御接口仓精选"
+    },
+    {
+      "key": "yu_0d1159d4_乐乐",
+      "name": "👑🎡️┃乐乐┃影视",
+      "type": 1,
+      "api": "https://leshizyapi.com/api.php/provide/vod/at/json/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "group": "御接口仓精选"
+    },
+    {
+      "key": "yu_1f47986d_csp_xml_39影视",
+      "name": "👑🐝39影视",
+      "type": 1,
+      "api": "https://www.39kan.com/api.php/provide/vod/",
+      "playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1,
+      "group": "御接口仓精选"
+    },
+    {
+      "key": "yu_c3aa880b_csp_xml_CK资源",
+      "name": "👑🐝CK 资源",
+      "type": 1,
+      "api": "https://ckzy.me/api.php/provide/vod/",
+      "playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1,
+      "group": "御接口仓精选"
+    },
+    {
+      "key": "yu_b6c85777_csp_xml_ok资源",
+      "name": "👑🐝ok资源",
+      "type": 1,
+      "api": "https://api.okzy.org/api.php/provide/vod/",
+      "playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1,
+      "categories": [
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "纪录片",
+        "悬疑片",
+        "犯罪片",
+        "动画片",
+        "奇幻片",
+        "连续剧",
+        "国产剧",
+        "香港剧",
+        "台湾剧",
+        "美国剧",
+        "韩国剧",
+        "日本剧",
+        "大陆综艺",
+        "日韩综艺",
+        "港台综艺",
+        "欧美综艺",
+        "国产动漫",
+        "日韩动漫",
+        "欧美动漫"
+],
+      "group": "御接口仓精选"
+    },
+    {
+      "key": "yu_ca47f009_csp_xml_天空资源",
+      "name": "👑🐝天空资源",
+      "type": 1,
+      "api": "https://api.tiankongapi.com/api.php/provide/vod/",
+      "playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1,
+      "group": "御接口仓精选"
+    },
+    {
+      "key": "yu_b288b760_csp_xml_百度资源",
+      "name": "👑🐝百度资源",
+      "type": 1,
+      "api": "https://api.apibdzy.com/api.php/provide/vod/",
+      "playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1,
+      "jar": "https://www.cswklt.top/0928.jar",
+      "group": "御接口仓精选"
+    },
+    {
+      "key": "yu_0bb5b6f8_csp_xml_金鹰资源",
+      "name": "👑🐝金鹰资源",
+      "type": 1,
+      "api": "https://jyzyapi.com/provide/vod/at/xml",
+      "playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1,
+      "group": "御接口仓精选"
+    },
+    {
+      "key": "yu_1de5576d_csp_xml_飞速资源",
+      "name": "👑🐝飞速资源",
+      "type": 1,
+      "api": "http://fszy1.com/api.php/provide/vod/",
+      "playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1,
+      "categories": [
+        "国产剧",
+        "香港剧",
+        "台湾剧",
+        "日本剧",
+        "欧美剧",
+        "泰国剧",
+        "国产动漫",
+        "日韩动漫",
+        "欧美动漫",
+        "动画电影",
+        "动作片",
+        "科幻片",
+        "剧情片",
+        "喜剧片",
+        "爱情片",
+        "恐怖片",
+        "战争片",
+        "港台综艺",
+        "大陆综艺",
+        "港台综艺",
+        "日韩综艺",
+        "欧美综艺",
+        "纪录片"
+      ],
+      "group": "御接口仓精选"
+    },
+    {
+      "key": "yu_471354d3_csp_xml_飞速采集",
+      "name": "👑🐝飞速采集",
+      "type": 1,
+      "api": "https://m3u8.feisuzyapi.com/api.php/provide/vod/",
+      "playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1,
+      "categories": [
+        "国产剧",
+        "香港剧",
+        "台湾剧",
+        "日本剧",
+        "欧美剧",
+        "泰国剧",
+        "国产动漫",
+        "日韩动漫",
+        "欧美动漫",
+        "动画电影",
+        "动作片",
+        "科幻片",
+        "剧情片",
+        "喜剧片",
+        "爱情片",
+        "恐怖片",
+        "战争片",
+        "港台综艺",
+        "大陆综艺",
+        "港台综艺",
+        "日韩综艺",
+        "欧美综艺",
+        "纪录片"
+      ],
+      "group": "御接口仓精选"
+    },
+    {
+      "key": "yu_72af6e36_csp_xml_yule",
+      "name": "👑🐝鱼乐资源",
+      "type": 1,
+      "api": "https://api.ylzy.me/api.php/provide/vod/",
+      "playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1,
+      "categories": [
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "纪录片",
+        "悬疑片",
+        "犯罪片",
+        "动画片",
+        "奇幻片",
+        "连续剧",
+        "国产剧",
+        "香港剧",
+        "台湾剧",
+        "美国剧",
+        "韩国剧",
+        "日本剧",
+        "综艺",
+        "大陆综艺",
+        "日韩综艺",
+        "港台综艺",
+        "欧美综艺",
+        "动漫",
+        "国产动漫",
+        "日韩动漫",
+        "欧美动漫",
+        "伦理片",
+        "其他剧",
+        "体育"
+      ],
+      "group": "御接口仓精选"
+    },
+    {
+      "key": "yu_fff88bcd_csp_xml_麻花资源",
+      "name": "👑🐝麻花资源",
+      "type": 1,
+      "api": "https://api.1080zyku.com/inc/api_mac10.php",
+      "playUrl": "",
+      "searchable": 0,
+      "quickSearch": 1,
+      "group": "御接口仓精选"
+    },
+    {
+      "key": "yu_97b024a8_奇虎资源",
+      "name": "👑🐯┃奇虎┃采集",
+      "type": 1,
+      "api": "https://caiji.qhzyapi.com/api.php/provide/vod/",
+      "playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1,
+      "categories": [
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "战争片",
+        "剧情片",
+        "伦理片",
+        "纪录片",
+        "国产剧",
+        "香港剧",
+        "韩国剧",
+        "欧美剧",
+        "日本剧",
+        "台湾剧",
+        "泰国剧",
+        "海外剧",
+        "国产动漫",
+        "日本动漫",
+        "欧美动漫",
+        "大陆综艺",
+        "港台综艺",
+        "欧美综艺",
+        "日韩综艺",
+        "动画片",
+        "体育",
+        "短剧",
+        "网络电影"
+      ],
+      "group": "御接口仓精选"
+    },
+    {
+      "key": "yu_6006ec45_虎牙",
+      "name": "👑🐯虎牙采集",
+      "type": 1,
+      "api": "https://www.huyaapi.com/api.php/provide/vod/from/hym3u8",
+      "searchable": 1,
+      "quickSearch": 1,
+      "categories": [
+        "内地剧",
+        "动作片",
+        "科幻片",
+        "战争片",
+        "喜剧片",
+        "爱情片",
+        "恐怖片",
+        "犯罪片",
+        "剧情片",
+        "冒险片",
+        "记录片",
+        "韩剧",
+        "香港剧",
+        "台湾剧",
+        "欧美剧",
+        "日剧",
+        "马泰剧",
+        "体育赛事",
+        "综艺",
+        "动画片",
+        "中国动漫",
+        "日本动漫",
+        "欧美动漫"
+      ],
+      "group": "御接口仓精选"
+    },
+    {
+      "key": "yu_ab2e15ef_闪电资源网",
+      "name": "👑🐼闪电资源网",
+      "api": "https://xsd.sdzyapi.com/api.php/provide/vod/",
+      "download": "",
+      "jiexiUrl": "",
+      "searchable": 1,
+      "quickSearch": 1,
+      "group": "御接口仓精选",
+      "status": true,
+      "isActive": true,
+      "type": 1,
+      "id": 9,
+      "categories": [
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "国产剧",
+        "欧美剧",
+        "韩剧",
+        "日剧",
+        "港剧",
+        "台剧",
+        "泰剧",
+        "纪录片",
+        "海外剧",
+        "大陆综艺",
+        "日韩综艺",
+        "港台综艺",
+        "欧美综艺",
+        "国产动漫",
+        "日韩动漫",
+        "欧美动漫",
+        "动画片",
+        "港台动漫",
+        "海外动漫",
+        "演唱会",
+        "体育赛事",
+        "篮球",
+        "足球",
+        "预告片",
+        "斯诺克",
+        "影视解说",
+        "爽文短剧",
+        "伦理",
+        "港台三级",
+        "韩国伦理",
+        "西方伦理",
+        "日本伦理",
+        "两性课堂",
+        "写真热舞",
+        "4K电影",
+        "有声动漫"
+      ]
+    },
+    {
+      "key": "yu_a2a61273_csp_小胡",
+      "name": "👑👒┃小胡┃资源┃",
+      "type": 1,
+      "api": "http://c.小胡.icu/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "group": "御接口仓精选"
+    },
+    {
+      "key": "yu_438d1f4b_如意采集资源",
+      "name": "👑🔥如意┃采集",
+      "type": 1,
+      "api": "https://cj.rycjapi.com/api.php/provide/vod/",
+      "playerType": 1,
+      "searchable": 1,
+      "changeable": 1,
+      "group": "御接口仓精选"
+    },
+    {
+      "key": "yu_08999ff9_taopian",
+      "name": "👑🕹️淘片┃采集",
+      "type": 1,
+      "api": "https://taopianapi.com/cjapi/mc/vod/json.html",
+      "searchable": 1,
+      "filterable": 0,
+      "categories": [
+        "动漫/国产动漫",
+        "动漫/日本动漫",
+        "动漫/欧美动漫",
+        "动漫/海外动漫",
+        "综艺/大陆综艺",
+        "综艺/港台综艺",
+        "综艺/日韩综艺",
+        "综艺/欧美综艺",
+        "综艺/海外综艺",
+        "电视剧/国产剧",
+        "电视剧/香港剧",
+        "电视剧/欧美剧",
+        "电视剧/海外剧",
+        "电视剧/韩国剧",
+        "电视剧/日本剧",
+        "电视剧/泰国剧",
+        "电视剧/台湾剧",
+        "电影/战争片",
+        "电影/科幻片",
+        "电影/奇幻片",
+        "电影/冒险片",
+        "电影/动画片",
+        "电影/喜剧片",
+        "电影/动作片",
+        "电影/爱情片",
+        "电影/恐怖片",
+        "电影/惊悚片",
+        "电影/剧情片",
+        "电影/悬疑片",
+        "电影/纪录片"
+],
+      "group": "御接口仓精选"
+    },
+    {
+      "key": "yu_9cac2a62_feisu",
+      "name": "👑🛰️飞速┃采集",
+      "type": 1,
+      "api": "https://www.feisuzyapi.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "filterable": 0,
+      "categories": [
+        "国产动漫",
+        "日本动漫",
+        "欧美动漫",
+        "海外动漫",
+        "大陆综艺",
+        "港台综艺",
+        "日韩综艺",
+        "欧美综艺",
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "国产剧",
+        "香港剧",
+        "欧美剧",
+        "韩国剧",
+        "台湾剧",
+        "日本剧",
+        "泰国剧",
+        "纪录片",
+        "动画片",
+        "电影解说",
+        "其他片",
+        "其他剧",
+        "体育赛事",
+        "短剧"
+      ],
+      "group": "御接口仓精选"
+    },
+    {
+      "key": "yu_85e752b6_量子资源",
+      "name": "👑🥑┃量子┃资源",
+      "type": 1,
+      "api": "https://lzizy1.com/api.php/provide/vod/",
+      "playurl": "json:http://jx.84jia.com/m3u8ts.php?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "categories": [
+        "国产剧",
+        "国产动漫",
+        "泰国剧",
+        "台湾剧",
+        "香港剧",
+        "欧美剧",
+        "韩国剧",
+        "日本剧",
+        "动漫",
+        "体育",
+        "剧情片",
+        "动作片",
+        "爱情片",
+        "喜剧片"
+      ],
+      "group": "御接口仓精选"
+    },
+    {
+      "key": "yu_c9b9e12c_csp_非凡资源",
+      "name": "👑🥗┃非凡┃资源",
+      "type": 1,
+      "api": "http://ffzy1.tv/api.php/provide/vod/",
+      "playurl": "json:http://jx.84jia.com/m3u8ts.php?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "动作片",
+        "喜剧片",
+        "科幻片",
+        "恐怖片",
+        "爱情片",
+        "剧情片",
+        "战争片",
+        "记录片",
+        "国产剧",
+        "欧美剧",
+        "香港剧",
+        "韩国剧",
+        "台湾剧",
+        "日本剧",
+        "海外剧",
+        "泰国剧",
+        "国产动漫",
+        "日韩动漫",
+        "欧美动漫",
+        "港台动漫",
+        "海外动漫",
+        "大陆综艺",
+        "港台综艺",
+        "日韩综艺",
+        "欧美综艺"
+      ],
+      "group": "御接口仓精选"
+    },
+    {
+      "key": "yu_8ffa76cb_49zy",
+      "name": "👑🦁┃四九┃资源",
+      "type": 1,
+      "api": "https://49zy1.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "国产剧",
+        "纪录片",
+        "欧美剧",
+        "香港剧",
+        "动作片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "喜剧片",
+        "动画片",
+        "犯罪片",
+        "韩国剧",
+        "动漫",
+        "电影",
+        "大陆综艺",
+        "港台综艺",
+        "日韩综艺",
+        "欧美综艺",
+        "台湾剧",
+        "国产动漫",
+        "日本动漫",
+        "欧美动漫",
+        "泰国剧",
+        "日剧",
+        "电影解说",
+        "奇幻片",
+        "灾难片",
+        "悬疑片",
+        "其他片",
+        "体育赛事",
+        "海外剧"
+      ],
+      "group": "御接口仓精选"
+    },
+    {
+      "key": "yu_f24111f3_T4_bmtv",
+      "name": "👑B站-MTV(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/bili.php?id=bMTV",
+      "group": "御接口仓精选",
+      "searchable": 1
+    },
+    {
+      "key": "yu_6911a796_T4_mybili",
+      "name": "👑B站-mybili(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/bili.php?id=我的哔哩",
+      "group": "御接口仓精选",
+      "searchable": 1
+    },
+    {
+      "key": "yu_5791e4fd_T4_中医",
+      "name": "👑B站-中医(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/bili.php?id=中医",
+      "group": "御接口仓精选",
+      "searchable": 1
+    },
+    {
+      "key": "yu_ff0c8685_T4_儿童口才",
+      "name": "👑B站-儿童口才(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/bili.php?id=儿童口才",
+      "group": "御接口仓精选",
+      "searchable": 1
+    },
+    {
+      "key": "yu_f95984b9_T4_儿童思维",
+      "name": "👑B站-儿童思维(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/bili.php?id=儿童思维",
+      "group": "御接口仓精选",
+      "searchable": 1
+    },
+    {
+      "key": "yu_83a38972_T4_儿童拼音",
+      "name": "👑B站-儿童拼音(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/bili.php?id=儿童拼音",
+      "group": "御接口仓精选",
+      "searchable": 1
+    },
+    {
+      "key": "yu_137e015a_T4_儿童武术",
+      "name": "👑B站-儿童武术(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/bili.php?id=儿童武术",
+      "group": "御接口仓精选",
+      "searchable": 1
+    },
+    {
+      "key": "yu_7788d0ad_T4_儿童硬笔",
+      "name": "👑B站-儿童硬笔(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/bili.php?id=儿童硬笔",
+      "group": "御接口仓精选",
+      "searchable": 1
+    },
+    {
+      "key": "yu_21b88afd_T4_儿童编程",
+      "name": "👑B站-儿童编程(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/bili.php?id=儿童编程",
+      "group": "御接口仓精选",
+      "searchable": 1
+    },
+    {
+      "key": "yu_b1936c45_T4_儿童英语",
+      "name": "👑B站-儿童英语(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/bili.php?id=儿童英语",
+      "group": "御接口仓精选",
+      "searchable": 1
+    },
+    {
+      "key": "yu_46b7895a_T4_儿童识字",
+      "name": "👑B站-儿童识字(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/bili.php?id=儿童识字",
+      "group": "御接口仓精选",
+      "searchable": 1
+    },
+    {
+      "key": "yu_04fc09d4_T4_bili3",
+      "name": "👑B站-初中(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/bili.php?id=初中课堂",
+      "group": "御接口仓精选",
+      "searchable": 1
+    },
+    {
+      "key": "yu_4fed3861_T4_合集",
+      "name": "👑B站-合集(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/bili.php?id=合集",
+      "group": "御接口仓精选",
+      "searchable": 1
+    },
+    {
+      "key": "yu_fd8cec11_T4_bili",
+      "name": "👑B站-哔哩(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/bili.php",
+      "group": "御接口仓精选",
+      "searchable": 1
+    },
+    {
+      "key": "yu_6c80d56c_T4_哔哩套餐1",
+      "name": "👑B站-哔哩套餐1(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/bili.php?id=哔哩套餐1",
+      "group": "御接口仓精选",
+      "searchable": 1
+    },
+    {
+      "key": "yu_cd6905c9_T4_哔哩套餐2",
+      "name": "👑B站-哔哩套餐2(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/bili.php?id=哔哩套餐2",
+      "group": "御接口仓精选",
+      "searchable": 1
+    },
+    {
+      "key": "yu_47ccc49c_T4_waiyu",
+      "name": "👑B站-外语(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/bili.php?id=waiyu",
+      "group": "御接口仓精选",
+      "searchable": 1
+    },
+    {
+      "key": "yu_46729f6e_T4_bili2",
+      "name": "👑B站-小学(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/bili.php?id=小学课堂",
+      "group": "御接口仓精选",
+      "searchable": 1
+    },
+    {
+      "key": "yu_310fb0e5_T4_小灯塔国学",
+      "name": "👑B站-小灯塔国学(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/bili.php?id=小灯塔国学",
+      "group": "御接口仓精选",
+      "searchable": 1
+    },
+    {
+      "key": "yu_aa04bc4b_T4_小灯塔地理",
+      "name": "👑B站-小灯塔地理(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/bili.php?id=小灯塔地理",
+      "group": "御接口仓精选",
+      "searchable": 1
+    },
+    {
+      "key": "yu_5940f07f_T4_小灯塔百科",
+      "name": "👑B站-小灯塔百科(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/bili.php?id=小灯塔百科",
+      "group": "御接口仓精选",
+      "searchable": 1
+    },
+    {
+      "key": "yu_5fc55123_T4_小灯塔科学",
+      "name": "👑B站-小灯塔科学(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/bili.php?id=小灯塔科学",
+      "group": "御接口仓精选",
+      "searchable": 1
+    },
+    {
+      "key": "yu_6d409243_T4_bili1",
+      "name": "👑B站-幼儿(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/bili.php?id=少儿教育",
+      "group": "御接口仓精选",
+      "searchable": 1
+    },
+    {
+      "key": "yu_d6f0f897_T4_Blixq",
+      "name": "👑B站-戏曲(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/bili.php?id=Blixq",
+      "group": "御接口仓精选",
+      "searchable": 1
+    },
+    {
+      "key": "yu_e368529f_T4_Bliych",
+      "name": "👑B站-演唱会(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/bili.php?id=Bliych",
+      "group": "御接口仓精选",
+      "searchable": 1
+    },
+    {
+      "key": "yu_8af61aa4_T4_球星合集",
+      "name": "👑B站-球星合集(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/bili.php?id=球星合集",
+      "group": "御接口仓精选",
+      "searchable": 1
+    },
+    {
+      "key": "yu_182e7098_T4_球类合集",
+      "name": "👑B站-球类合集(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/bili.php?id=球类合集",
+      "group": "御接口仓精选",
+      "searchable": 1
+    },
+    {
+      "key": "yu_6a6f3de7_T4_Blixs",
+      "name": "👑B站-相声(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/bili.php?id=Blixs",
+      "group": "御接口仓精选",
+      "searchable": 1
+    },
+    {
+      "key": "yu_dcbd7a43_T4_美食",
+      "name": "👑B站-美食(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/bili.php?id=美食",
+      "group": "御接口仓精选",
+      "searchable": 1
+    },
+    {
+      "key": "yu_3fd79f45_T4_jieshuo",
+      "name": "👑B站-解说(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/bili.php?id=影视解说",
+      "group": "御接口仓精选",
+      "searchable": 1
+    },
+    {
+      "key": "yu_69a22783_T4_软件教程",
+      "name": "👑B站-软件教程(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/bili.php?id=软件教程",
+      "group": "御接口仓精选",
+      "searchable": 1
+    },
+    {
+      "key": "yu_98469c06_T4_bili4",
+      "name": "👑B站-高中(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/bili.php?id=高中课堂",
+      "group": "御接口仓精选",
+      "searchable": 1
+    },
+    {
+      "key": "yu_bca68063_MV大全",
+      "name": "👑MV大全",
+      "type": 4,
+      "api": "http://120.53.102.254/dsp/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "group": "御接口仓精选"
+    },
+    {
+      "key": "yu_9e7ad246_ZX",
+      "name": "👑ZX4K",
+      "type": 4,
+      "api": "http://115.191.55.109:9097/api/%E4%BA%BA%E4%BA%BA%E5%BD%B1%E8%A7%86[%E4%BC%98]?pwd=50721480be241243&filter=true",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "group": "御接口仓精选"
+    },
+    {
+      "key": "yu_87d6d9ac_T4_qiertiyu",
+      "name": "👑体育-企鹅(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/qietiyu.php",
+      "group": "御接口仓精选",
+      "searchable": 1
+    },
+    {
+      "key": "yu_165602f8_tuxiaobei",
+      "name": "👑儿童-兔小贝(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/tuxiaobei.php",
+      "group": "御接口仓精选",
+      "searchable": 1
+    },
+    {
+      "key": "yu_b97e7d60_T4_blh",
+      "name": "👑儿童-贝乐虎(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/beilehu.php",
+      "group": "御接口仓精选",
+      "searchable": 1
+    },
+    {
+      "key": "yu_6ba63377_T4_cctv",
+      "name": "👑其他-央视(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/cctv.php",
+      "group": "御接口仓精选",
+      "searchable": 1
+    },
+    {
+      "key": "yu_e3e5c5e8_T4_cntv",
+      "name": "👑其他-央视2(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/cntv.php",
+      "group": "御接口仓精选",
+      "searchable": 1
+    },
+    {
+      "key": "yu_a220592a_T4_jijiu",
+      "name": "👑其他-急救(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/jijiu.php",
+      "group": "御接口仓精选",
+      "searchable": 1
+    },
+    {
+      "key": "yu_70bc8065_T4_360kq",
+      "name": "👑其他-看球(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/360kq.php",
+      "group": "御接口仓精选",
+      "searchable": 1
+    },
+    {
+      "key": "yu_f55f167a_T4_xifan",
+      "name": "👑动漫-稀饭(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/xifan.php",
+      "group": "御接口仓精选",
+      "searchable": 1
+    },
+    {
+      "key": "yu_6d56661d_T4_bookan",
+      "name": "👑听书-博看(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/bookan.php",
+      "group": "御接口仓精选",
+      "searchable": 1
+    },
+    {
+      "key": "yu_3ac01336_T4_jp",
+      "name": "👑影视-荐片(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/jianpian.php",
+      "group": "御接口仓精选",
+      "searchable": 1
+    },
+    {
+      "key": "yu_a91f9dae_T4_caiji",
+      "name": "👑影视-采集(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/caiji.php",
+      "group": "御接口仓精选",
+      "searchable": 1
+    },
+    {
+      "key": "yu_f2280e31_T4_yugaopian",
+      "name": "👑影视-预告片(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/yugaopian.php",
+      "group": "御接口仓精选",
+      "searchable": 1
+    },
+    {
+      "key": "yu_5fc41524_T4_6v",
+      "name": "👑磁力-6V(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/6v.php",
+      "group": "御接口仓精选",
+      "searchable": 1
+    },
+    {
+      "key": "yu_0ccc0d11_xuexi",
+      "name": "👑线路|学习",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/xuexi.php",
+      "group": "御接口仓精选",
+      "searchable": 1
+    },
+{
+      "key": "yu_b13817a5_T4_豆瓣",
+      "name": "👑豆瓣(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/douban.php",
+      "searchable": 0,
+      "quickSearch": 0,
+      "group": "御接口仓精选"
+    },
+    {
+      "key": "yu_40e9cb5d_T4_djuu",
+      "name": "👑音乐-DJUU(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/djuu.php",
+      "group": "御接口仓精选",
+      "searchable": 1
+    },
+    {
+      "key": "yu_cfdf978c_T4_xiaogou",
+      "name": "👑音乐-小狗(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/xiaogou.php",
+      "group": "御接口仓精选",
+      "searchable": 1
+    },
+    {
+      "key": "yu_87ace5cd_T4_2024热门",
+      "name": "👑音乐-热门MV(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/bili.php?id=2024",
+      "group": "御接口仓精选",
+      "searchable": 1
+    },
+    {
+      "key": "yu_332765ac_T4_tangdou",
+      "name": "👑音乐-糖豆(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/tangdou.php",
+      "group": "御接口仓精选",
+      "searchable": 1
+    }
+  ],
+  "doh": [
+    {
+      "name": "DNSPod",
+      "url": "https://doh.pub/dns-query",
+      "ips": [
+        "119.29.29.29",
+        "119.28.28.28",
+        "2400:da00::6666",
+        "2400:da00:1::6666"
+      ]
+    },
+    {
+      "name": "Alidns",
+      "url": "https://dns.alidns.com/dns-query",
+      "ips": [
+        "223.5.5.5",
+        "223.6.6.6",
+        "2400:3200::1",
+        "2400:3200:baba::1"
+      ]
+    },
+    {
+      "name": "Google",
+      "url": "https://dns.google/dns-query",
+      "ips": [
+        "8.8.4.4",
+        "8.8.8.8",
+        "2001:4860:4860::8888",
+        "2001:4860:4860::8844"
+      ]
+    },
+    {
+      "name": "Cloudflare",
+      "url": "https://cloudflare-dns.com/dns-query",
+      "ips": [
+        "1.1.1.1",
+        "1.0.0.1",
+        "2606:4700:4700::1111",
+        "2606:4700:4700::1001"
+      ]
+    },
+    {
+      "name": "Tencent",
+      "url": "https://doh.pub/dns-query",
+      "ips": [
+        "1.12.12.12",
+        "120.53.53.53",
+        "2402:4e00::",
+        "2402:4e00:1::"
+      ]
+    },
+    {
+      "name": "360DNS",
+      "url": "https://doh.360.cn/dns-query",
+      "ips": [
+        "101.226.4.6",
+        "218.30.118.6",
+        "123.125.81.6",
+        "140.207.198.6"
+      ]
+    },
+    {
+      "name": "AdGuard",
+      "url": "https://dns.adguard.com/dns-query",
+      "ips": [
+        "94.140.14.140",
+        "94.140.14.141",
+        "2a10:50c0::ad1:ff",
+        "2a10:50c0::ad2:ff"
+      ]
+    },
+    {
+      "name": "DNSWatch",
+      "url": "https://dns.watch/dns-query",
+      "ips": [
+        "84.200.69.80",
+        "84.200.70.40",
+        "2001:67c:2354:2::64",
+        "2001:67c:2354:3::64"
+      ]
+    },
+    {
+      "name": "Quad9",
+      "url": "https://dns.quad9.net/dns-query",
+      "ips": [
+        "9.9.9.9",
+        "149.112.112.112",
+        "2620:fe::fe",
+        "2620:fe::9"
+      ]
+    }
+  ],
+  "proxy": [
+    "raw.githubusercontent.com",
+    "googlevideo.com",
+    "googleapis.com",
+    "youtube.com"
+  ],
+  "rules": [
+    {
+      "name": "火山嗅探",
+      "hosts": [
+        "huoshan.com"
+      ],
+      "regex": [
+        "item_id="
+      ]
+    },
+    {
+      "name": "抖音嗅探",
+      "hosts": [
+        "douyin.com"
+      ],
+      "regex": [
+        "is_play_url="
+      ]
+    },
+    {
+      "name": "農民嗅探",
+      "hosts": [
+        "toutiaovod.com"
+      ],
+      "regex": [
+        "video/tos/cn"
+      ]
+    },
+    {
+      "name": "七新嗅探",
+      "hosts": [
+        "api.52wyb.com"
+      ],
+      "regex": [
+        "m3u8?pt=m3u8"
+      ]
+    },
+    {
+      "name": "毛驢點擊",
+      "hosts": [
+        "www.maolvys.com"
+      ],
+      "script": [
+        "document.getElementsByClassName('swal-button swal-button--confirm')[0].click()"
+      ]
+    }
+  ],
+  "headers": [
+    {
+      "host": "img\\d+.doubanio.com",
+      "header": {
+        "Referer": "https://movie.douban.com"
+      }
+    },
+    {
+      "host": "img1.doubanio.com",
+      "header": {
+        "Referer": "https://movie.douban.com"
+      }
+    },
+    {
+      "host": "img2.doubanio.com",
+      "header": {
+        "Referer": "https://movie.douban.com"
+      }
+    },
+    {
+      "host": "img3.doubanio.com",
+      "header": {
+        "Referer": "https://movie.douban.com"
+      }
+    },
+    {
+      "host": "img4.doubanio.com",
+      "header": {
+        "Referer": "https://movie.douban.com"
+      }
+    },
+    {
+      "host": "img5.doubanio.com",
+      "header": {
+        "Referer": "https://movie.douban.com"
+      }
+    },
+    {
+      "host": "img6.doubanio.com",
+      "header": {
+        "Referer": "https://movie.douban.com"
+      }
+    },
+    {
+      "host": "img7.doubanio.com",
+      "header": {
+        "Referer": "https://movie.douban.com"
+      }
+    },
+    {
+      "host": "img8.doubanio.com",
+      "header": {
+        "Referer": "https://movie.douban.com"
+      }
+    },
+    {
+      "host": "img9.doubanio.com",
+      "header": {
+        "Referer": "https://movie.douban.com"
+      }
+    }
+  ],
+  "hosts": [],
+  "parses": [
+    {
+      "name": "测试解析",
+      "type": 1,
+      "url": "http://127.0.0.1:9978/proxy?do=voxjx&url="
+    },
+    {
+      "name": "手动解析①",
+      "type": 0,
+      "url": "https://jx.xmflv.com/?url=",
+      "ext": {
+        "header": {
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
+        }
+      }
+    },
+    {
+      "name": "手动解析②",
+      "type": 0,
+      "url": "https://jx.nnxv.cn/tv.php?url=",
+      "ext": {
+        "header": {
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
+        }
+      }
+    },
+    {
+      "name": "手动解析③",
+      "type": 0,
+      "url": "https://jx.m3u8.tv/jiexi/?url=",
+      "ext": {
+        "header": {
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
+        }
+      }
+    },
+    {
+      "name": "手动解析④",
+      "type": 0,
+      "url": "https://www.ckplayer.vip/jiexi/?url=",
+      "ext": {
+        "header": {
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
+        }
+      }
+    },
+    {
+      "name": "手动解析⑤",
+      "type": 0,
+      "url": "https://okjx.cc/?url=",
+      "ext": {
+        "header": {
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
+        }
+      }
+    }
+  ],
+  "flags": [
+    "youku",
+    "qq",
+    "iqiyi",
+    "qiyi",
+    "letv",
+    "sohu",
+    "tudou",
+    "pptv",
+    "mgtv",
+    "wasu"
+  ],
+  "ads": [
+    "static-mozai.4gtv.tv",
+    "s3t3d2y8.afcdn.net"
+  ]
+}
